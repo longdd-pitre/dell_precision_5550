@@ -1,4 +1,4 @@
-# Dell XPS 9500 macOS Monterey ( pitre)
+# Dell Precision 5550 macOS Monterey ( pitre)
 
 This is an OpenCore EFI that allows you to install and boot macOS Monterey on your Dell  Precision 5550 (2020)
 
